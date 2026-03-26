@@ -45,6 +45,11 @@
 			path = HiLowUITests;
 			sourceTree = "<group>";
 		};
+		712B2E712F75E5C8007237FC /* Images */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Images;
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +84,7 @@
 				712B2E552F75DC8A007237FC /* HiLowTests */,
 				712B2E5F2F75DC8A007237FC /* HiLowUITests */,
 				712B2E432F75DC88007237FC /* Products */,
+				712B2E712F75E5C8007237FC /* Images */,
 			);
 			sourceTree = "<group>";
 		};
@@ -109,6 +115,7 @@
 			);
 			fileSystemSynchronizedGroups = (
 				712B2E442F75DC88007237FC /* HiLow */,
+				712B2E712F75E5C8007237FC /* Images */,
 			);
 			name = HiLow;
 			packageProductDependencies = (
