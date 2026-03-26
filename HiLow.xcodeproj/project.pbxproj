@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		712B2E732F75E88C007237FC /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 712B2E722F75E88C007237FC /* README.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		712B2E532F75DC8A007237FC /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,6 +31,7 @@
 		712B2E422F75DC88007237FC /* HiLow.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HiLow.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		712B2E522F75DC8A007237FC /* HiLowTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HiLowTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		712B2E5C2F75DC8A007237FC /* HiLowUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HiLowUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		712B2E722F75E88C007237FC /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -80,6 +85,7 @@
 		712B2E392F75DC88007237FC = {
 			isa = PBXGroup;
 			children = (
+				712B2E722F75E88C007237FC /* README.md */,
 				712B2E442F75DC88007237FC /* HiLow */,
 				712B2E552F75DC8A007237FC /* HiLowTests */,
 				712B2E5F2F75DC8A007237FC /* HiLowUITests */,
@@ -219,6 +225,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				712B2E732F75E88C007237FC /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
